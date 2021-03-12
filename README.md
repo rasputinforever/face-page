@@ -23,3 +23,15 @@ DB will be pre-loaded with 10 friends and around 100+ comments
 
 ## Ad-Libbing
 any pre-set "comments" will have variables in. Filling them would require an 3rd party API call to fill those. 
+
+
+## Tools to use
+
+### 3rd party API for random elements/fills
+### CDN for CSS
+
+### Change of plan: do this is PYTHON
+
+## Concepts to use
+### Random Number Generator -- how to apply to ad-libbing
+### Time-based interactions -- relative to POST DATE, engagement decreases.
